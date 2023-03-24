@@ -25,4 +25,4 @@
 [Horiseon Website](https://johnangel999.github.io/Horiseon-Coding-Homework/)
 
 ### Screenshot 
-<img src="./assets/images/websitescreenshot.jpg" alt="websitescreenshot">
+<img src="./develop/assets/images/websitescreenshot.jpg" alt="websitescreenshot">
